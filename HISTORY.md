@@ -6,6 +6,22 @@ dev
 
 -   \[Short description of non-trivial change.\]
 
+
+2.25.0 (2020-11-11)
+------------------
+
+**Improvements**
+
+- Added support for NETRC environment variable. (#5643)
+
+**Dependencies**
+
+- Requests now supports urllib3 v1.26.
+
+**Deprecations**
+
+- Requests v2.25.x will be the last release series with support for Python 3.5.
+
 2.24.0 (2020-06-17)
 -------------------
 
